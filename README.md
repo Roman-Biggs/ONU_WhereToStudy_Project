@@ -59,7 +59,7 @@ Interactive Navigator for Open Audiences in University
        ```json
        {
         "status": "success",
-        "message": "Отметка успешно принята",
+        "message": "Your mark was successfully accepted.",
         "updated_at": "2026-05-20T14:12:30Z"
        }
   
@@ -67,7 +67,7 @@ Interactive Navigator for Open Audiences in University
        ```json
        {
         "error": "AccessDenied",
-        "message": "Для выполнения чекина необходима авторизация через корпоративный аккаунт."
+        "message": "To check in, you must log in via your university account."
        }
 
 **Test Cases:**  
